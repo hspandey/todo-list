@@ -12,3 +12,8 @@
 * http://highscalability.com/ 
 * https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/
 * https://blog.pragmaticengineer.com/my-reading-list/#podcasts
+
+
+### Kubernetes 
+
+* https://github.com/kubernetes/community/blob/master/contributors/devel/sig-api-machinery/controllers.md 
